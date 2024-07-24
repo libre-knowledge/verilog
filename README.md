@@ -9,7 +9,7 @@
 
 以下列舉本主題相關的解決方案：
 
-* [vdent: Verilog Indenter](https://github.com/bmartini/vdent)  
+* [vdent: Verilog Indenter](https://gitlab.com/libre-knowledge/vdent)  
   Simple indent program for Verilog source code. Trims end of line white space and indents lines based on nested depth of code blocks.
 
 ## 參考資料
